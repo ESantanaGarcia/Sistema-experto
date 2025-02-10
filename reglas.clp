@@ -51,7 +51,7 @@
       (costo-energia alto))
 
    (dispositivo-energia
-      (id "Computadora")
+      (id "Ordenador")
       (tipo "Trabajo")
       (consumo 300)
       (prioridad alta)
